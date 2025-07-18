@@ -127,16 +127,6 @@ function lin_interp(a, b, f)
     };
 }
 
-function isEmpty(str)
-{
-    /**
-     * Checks to see if a string is empty or consists of only whitespaces.
-     * 
-     * @param {String} str
-     */
-    return !str.replace(/\s+/, "").length;
-}
-
 Math.csc = function(n) {
     /**
      * Calculates the cosecant of an angle in radians.
