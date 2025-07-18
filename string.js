@@ -8,16 +8,6 @@ const alphabet = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
 const alphaOnly = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
 const lowerOnly = "abcdefghijklmnopqrstuvwxyz";
 
-function isEmpty(str)
-{
-    /**
-     * Checks to see if a string is empty or consists of only whitespaces.
-     * 
-     * @param {String} str
-     */
-    return !str.replace(/\s+/, "").length;
-}
-
 function randString(len)
 {
     /**
@@ -119,15 +109,25 @@ String.prototype.insert_at = function(index, str) {
 };
 
 String.prototype.toCharCodes = function() {
+    /**
+     * Returns an array consisting of the decimal code units that each character in a given string corresponds to.
+     */
     return this.split("").map(x => x.charCodeAt(0));
 };
 
 String.prototype.toHexCharCodes = function() {
+    /**
+     * Returns an array consisting of the hexadecimal code units that each character in a given string corresponds to.
+     */
     return this.split("").map(x => x.charCodeAt(0).toString(16));
 };
 
 String.fromCharCodeArray = function(a) {
-    return eval("String.fromCharCode(" + a.join(",") + ")");
+    /**
+     * Like String.fromCharCode, but takes an array of decimal numbers as a single parameter instead of invidiual numbers in
+     * their own parameters.
+     */
+    return eval(`String.fromCharCode(${a.join()})`);
 };
 
 function htmlspecialchars(text)
