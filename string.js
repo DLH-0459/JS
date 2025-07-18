@@ -8,6 +8,16 @@ const alphabet = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
 const alphaOnly = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
 const lowerOnly = "abcdefghijklmnopqrstuvwxyz";
 
+function isEmpty(str)
+{
+    /**
+     * Checks to see if a string is empty or consists of only whitespaces.
+     * 
+     * @param {String} str
+     */
+    return !str.replace(/\s+/, "").length;
+}
+
 function randString(len)
 {
     /**
