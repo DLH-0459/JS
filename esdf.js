@@ -54,8 +54,7 @@ function formatN(x, m)
  * @param {Number} y - The second number
  * @returns {Number}
  */
-function gcd(x, y)
-{
+Math.gcd = function(x, y) {
     while (y != 0)
     {
         let z = x % y;
@@ -83,11 +82,8 @@ function degrees_to_radians(theta)
  * @param {Number} theta - Angle
  * @returns {Object} - Returns a JSON object containing the X and Y coordinates.
  */
-Math.prototype.rect = function(r, theta) {
-    return {
-        x: r * Math.sin(theta),
-        y: r * Math.cos(theta)
-    };
+Math.rect = function(r, theta) {
+    return [r * Math.cos(theta), r * Math.sin(theta)];
 }
 
 /**
@@ -97,11 +93,8 @@ Math.prototype.rect = function(r, theta) {
  * @param {Number} y - Y-coordinate
  * @returns {Object} - Returns a JSON object containing the radius and angle (in radians).
  */
-Math.prototype.pol = function(x, y) {
-    return {
-        r: Math.sqrt(x * x + y * y),
-        theta: Math.atan2(y, x)
-    };
+Math.pol = function(x, y) {
+    return [Math.sqrt(x * x + y * y), Math.atan2(y, x)];
 }
 
 /**
@@ -204,35 +197,81 @@ Math.cot = function(n) {
 }
 
 /**
- * Returns an array of x^i (mod n) for an integer x and a prime number n, for nonnegative integers i starting at 0 and
- * continuing until the remainder returns to being equal to 1.
+ * Inserts, at a specified index, a string into another string.
  * 
- * @param {Number} x - Number whose powers are being 
- * @param {Number} n - Number to be tested against
- * @returns {Array}
+ * @param {Number} index - The index of the string to be inserted at
+ * @param {String} str - The string to be inserted
  */
-function remainderCycle(x, n)
+String.prototype.insert_at = function(index, str) {
+    return ((index > 0) ? this.substring(0, index) + str + this.substring(index, this.length) : string + this);
+};
+
+/**
+ * Returns an array consisting of the decimal code units that each character in a given string corresponds to.
+ * 
+ * @returns {Array<Number>}
+ */
+String.prototype.toCharCodes = function() {
+    return this.split("").map(x => x.charCodeAt(0));
+};
+
+/**
+ * Returns an array consisting of the hexadecimal code units that each character in a given string corresponds to.
+ * 
+ * @returns {Array<String>}
+ */
+String.prototype.toHexCharCodes = function() {
+    return this.split("").map(x => x.charCodeAt(0).toString(16));
+};
+
+/**
+ * Like String.fromCharCode, but takes an array of decimal numbers as a single parameter instead of invidiual numbers in
+ * their own parameters.
+ * 
+ * @returns {String}
+ */
+String.fromCharCodeArray = function(a) {
+    return eval(`String.fromCharCode(${a.join()})`);
+};
+
+/**
+ * JavaScript equivalent of PHP's "htmlspecialchars" function. Escapes "special" characters so they can be displayed
+ * literally instead of being interpreted as HTML. Useful for preventing XSS attacks.
+ * 
+ * @param {String} text - The text to be processed
+ * @returns {String}
+ */
+function htmlspecialchars(text)
 {
-    let i = x, j = 0, result = [];
-    x = Math.floor(x);
-    n = Math.floor(n);
+    return text.replace(/\&/g, "&amp;")
+        .replace(/\</g, "&lt;")
+        .replace(/\>/g, "&gt;")
+        .replace(/\"/g, "&quot;")
+        .replace(/\'/g, "&#39;");
+}
 
-    if (x <= 0 || n <= 0)
-    {
-        return [];
-    }
+/**
+ * JavaScript equivalent of PHP's "htmlspecialchars_decode" function to decode HTML entities. Use of DOMParser helps prevent
+ * XSS vulnerabilities compared to a simple div, span, or textarea element.
+ * 
+ * @param {String} text - The string to be processed
+ */
+function htmlspecialchars_decode(text)
+{
+    const page = (new DOMParser()).parseFromString(text, "text/html");
+    return page.documentElement.textContent;
+}
 
-    result.push([0, 1]);
-
-    while (i != 1)
-    {
-        j++;
-        result.push([j, i]);
-        i = i * x % n;
-    }
-
-    result.push([j + 1, 1]);
-    return result;
+/**
+ * Improves behaviour of "encodeURIComponent" function by escaping characters ! ~ * ' ( ) which are not normally escaped
+ * by encodeURI or encodeURIComponent.
+ * 
+ * @param {String} text - The string to be processed
+ * @returns {String}
+ */
+function encodeURIComponentAll(text)
+{
+    return encodeURIComponent(text).replace(/[!~\*\'\(\)]/g, ch => "%" + ch.charCodeAt(0).toString(16).toUpperCase());
 }
 
 //]]>
