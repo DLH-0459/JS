@@ -40,7 +40,7 @@
                 </li>
                 <li>
                     <p><span style="background-color: yellow;"><strong>No mechanisms for reliably weighing the quality of sources:</strong></span></p>
-                    <p><span style="background-color: yellow;">On Wikipedia, a review article in a mid-tier journal written in 2003 and a meta-analysis in a top-tier journal written in 2026 would carry roughly equal weight under their sourcing policies, provided both can be considered &quot;reliable.&quot; When editors try to weigh which sources are &quot;better&quot; or &quot;more reliable,&quot; the outcome is often decided by what, or how many, editors voted or participated in relevant discussions, not by any epistemic standard.</span></p>
+                    <p><span style="background-color: yellow;">On Wikipedia, a review article in a mid-tier journal written in 2003 and a meta-analysis in a top-tier journal written in ${(new Date()).getFullYear()} would carry roughly equal weight under their sourcing policies, provided both can be considered &quot;reliable.&quot; When editors try to weigh which sources are &quot;better&quot; or &quot;more reliable,&quot; the outcome is often decided by what, or how many, editors voted or participated in relevant discussions, not by any epistemic standard.</span></p>
                 </li>
             </ul>
         </li>
