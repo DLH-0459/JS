@@ -51,7 +51,7 @@
         </li>
     </ol>
     <hr />
-    <p><span style="background-color: yellow;">*&nbsp;Some important policies in certain areas, even in STEM topics, are really really really bad. MOS:COMPUNITS is an excellent example of this:</span>
+    <p><span style="background-color: yellow;">*&nbsp;Some important policies in certain areas are really, really, really bad. MOS:COMPUNITS is an excellent example of this:</span>
 
     <p><span style="background-color: yellow;">MOS:COMPUNITS is a a policy that is part of Wikipedia&#39;s Manual of Style. It governs articles about computers by telling users how file size units should be written: whether the SI units for bytes (&quot;kilobyte,&quot; &quot;megabyte,&quot; &quot;gigabyte,&quot;) mean powers of 1,000 or 1,024.</span></p>
     
