@@ -28,8 +28,7 @@
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>Their core content policies are an appeal to majority:*</strong></span></p>
-            <p><span style="background-color: yellow;">Wikipedia often defers to prevailing usage in sources rather than enforcing correct, standardised definitions.</span></p>
-            <p><span style="background-color: yellow;">If you look at their poicy on &quot;Verifiability,&quot; you&#39;ll see that their threshold for inclusion is whether or not it can be &quot;verified&quot; by &quot;reliable&quot; sources, not about whether or not it is true. So if, for example, 80% or more of &quot;reliable&quot; secondary (and beyond) sources repeat a flawed account of something, Wikipedia will perpetuate that, because content that states what is the most true or accurate will be a minority viewpoint, and it will fail verification because prioritising it will be considered &quot;giving it undue weight.&quot; This creates even more room for error:</span></p>
+            <p><span style="background-color: yellow;">If you look at their policy on &quot;Verifiability,&quot; you&#39;ll see that their threshold for inclusion is whether or not it can be &quot;verified&quot; by &quot;reliable&quot; sources, not about whether or not it is true. So if, for example, 80% or more of &quot;reliable&quot; secondary (and beyond) sources repeat a flawed account of something, Wikipedia will perpetuate that, because content that states what is the most true or accurate will be a minority viewpoint, and it will fail verification because prioritising it will be considered &quot;giving it undue weight.&quot; This creates even more room for error:</span></p>
             <ul>
                 <li>
                     <p><span style="background-color: yellow;"><strong>Textbook lag:</strong></span></p>
