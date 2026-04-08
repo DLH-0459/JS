@@ -52,7 +52,7 @@
     <hr />
     <p><span style="background-color: yellow;">*&nbsp;Some important policies in certain areas are really, really, really bad. MOS:COMPUNITS is an excellent example of this:</span>
 
-    <p><span style="background-color: yellow;">MOS:COMPUNITS is a a policy that is part of Wikipedia&rsquo;s Manual of Style. It governs articles about computers by telling users how file size units should be written: whether the SI units for bytes (&ldquo;kilobyte,&rdquo; &ldquo;megabyte,&rdquo; &ldquo;gigabyte,&rdquo;) mean powers of 1,000 or 1,024.</span></p>
+    <p><span style="background-color: yellow;">MOS:COMPUNITS is a a policy that is part of Wikipedia&rsquo;s Manual of Style. It governs articles about computers by telling users how file size units should be written: whether the SI units for bytes (&ldquo;kilobyte,&rdquo; &ldquo;megabyte,&rdquo; &ldquo;gigabyte,&rdquo; etc.) mean powers of 1,000 or 1,024.</span></p>
     
     <p><span style="background-color: yellow;">The modern standard answer to this question is <i>not ambiguous:</i> The SI prefixes (KB, MB, GB, TB etc.) mean powers of 1000 and <i>not powers of 1,024.</i> The IEC binary prefixes (KiB, MiB, GiB, TiB, etc.) means powers of 1024. This has been the internationally-accepted position since 1998, when the IEC first released their standard on the binary prefixes, and competent experts in computing will use these terms correctly and advocate for their correct usage.</span></p>
 
