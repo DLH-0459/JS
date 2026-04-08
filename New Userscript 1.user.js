@@ -32,7 +32,7 @@
             <ul>
                 <li>
                     <p><span style="background-color: yellow;"><strong>Textbook lag:</strong></span></p>
-                    <p><span style="background-color: yellow;">Even in the hard maths and sciences, widely-used media outlets, websites, and textbooks often contain statements and conventions that are oversimplified or outright wrong, that have been propagated for decades.* Textbooks often lag behind the most up-to-date research by 10 years or more. Despite this, Wikipedia&rsquo;s sourcing policies work against editors trying to reflect current consensus among experts by citing papers and other primary sources directly, so they often lose to those citing popular websitess and news articles.</span></p>
+                    <p><span style="background-color: yellow;">Even in the hard maths and sciences, widely-used media outlets, websites, and textbooks often contain statements and conventions that are oversimplified or outright wrong, that have been propagated for a long time.* Textbooks are especially problematic, as they often lag behind the most up-to-date research by 10 years or more. Despite this, Wikipedia&rsquo;s sourcing policies work against editors trying to reflect current consensus among experts by citing papers and other primary sources directly, so they often lose to those citing popular websites and news articles.</span></p>
                 </li>
                 <li>
                     <p><span style="background-color: yellow;"><strong>Circular reporting:</strong></span></p>
