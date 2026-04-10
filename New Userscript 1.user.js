@@ -37,17 +37,17 @@
                 </li>
                 <li>
                     <p><span style="background-color: yellow;"><strong>Circular reporting:</strong></span></p>
-                    <p><span style="background-color: yellow;">Also known as &ldquo;citogenesis,&rdquo; circular reporting on Wikipedia happens when journalists cite a Wikipedia article, then at some point the journalists&rsquo; articles are considered &ldquo;reliable sources,&rdquo; and then <i>those news articles get used as a reference on that Wikipedia article.</i> Any errors that get caught in this can easily get laundered into a false consensus. But as well-known as this problem is, even within Wikipedia itself, their policies don&rsquo;t do a good job of preventing or deterring it, and the community don&rsquo;t seem to care that much.</span></p>
+                    <p><span style="background-color: yellow;">Also known as &ldquo;citogenesis,&rdquo; circular reporting on Wikipedia happens when journalists cite a Wikipedia article, then at some point the journalists&rsquo; articles are considered &ldquo;reliable sources,&rdquo; and then <i>those news articles get used as a reference on that Wikipedia article.</i> Since any errors that get caught in this can easily get laundered into a false consensus, media activists can (and have already) completely manufacture events and viewpoints using this vulnerability. But as well-known as this problem is, even within Wikipedia itself, their policies don&rsquo;t do a good job of preventing or deterring it, and the community don&rsquo;t seem to care that much.</span></p>
                 </li>
                 <li>
                     <p><span style="background-color: yellow;"><strong>No mechanisms for reliably weighing the quality of sources:</strong></span></p>
-                    <p><span style="background-color: yellow;">On Wikipedia, a review article in a mid-tier journal written in 2003 and a meta-analysis in a top-tier journal written in ${current_year} would carry roughly equal weight under their sourcing policies, provided both can be considered &ldquo;reliable.&rdquo; When editors try to weigh which sources are &ldquo;better&rdquo; or &ldquo;more reliable,&rdquo; the outcome is often decided by what, or how many, editors voted or participated in relevant discussions, not by any epistemic standard.</span></p>
+                    <p><span style="background-color: yellow;">On Wikipedia, a review article in a mid-tier journal written in 2003 and a meta-analysis in a top-tier journal written in ${current_year} would carry roughly equal weight under their sourcing policies, provided both can be considered &ldquo;reliable.&rdquo; But when editors try to weigh which sources are &ldquo;better&rdquo; or &ldquo;more reliable,&rdquo; the outcome is often decided by what, or how many, editors voted or participated in relevant discussions, not by any epistemic standard.</span></p>
                 </li>
             </ul>
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>&ldquo;Dispute resolution&rdquo; is an arms race:</strong></span></p>
-            <p><span style="background-color: yellow;">Bureaucracy and edit wars are won by those who are most familiar with years of rules, or prepared to waste others&rsquo; time, or both, and rarely by those who are the most correct.</span></p>
+            <p><span style="background-color: yellow;">Bureaucracy and edit wars are won by those who are most familiar with years of rules and arbitration or willing to waste others&rsquo; time (or both), and rarely by those who are the most correct.</span></p>
         </li>
     </ol>
     <hr />
