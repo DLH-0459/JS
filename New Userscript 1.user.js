@@ -76,7 +76,7 @@
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>Appeal to tradition:</strong></span></p>
-            <p><span style="background-color: yellow;">The implicit argument here is that, since the customary convention has been in use for decades, that alone somehow makes it legimitate. In the arguments found in the talk page archives, the community constantly tries to misleadingly present &ldquo;the industry simply did not embrace the IEC prefixes&rdquo; as a conclusion, instead of acknowledging it as the problem that it is, that needs to be addressed.</span></p>
+            <p><span style="background-color: yellow;">The implicit argument here is that, since the customary convention has been in use for decades, that alone somehow makes it legimitate. In the arguments found in the talk page archives, the community constantly tries to misleadingly present &ldquo;the industry simply did not embrace the IEC prefixes&rdquo; as a conclusion, instead of acknowledging it as a problem that needs to be addressed.</span></p>
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>Naturalistic fallacy:</strong></span></p>
