@@ -72,15 +72,15 @@
     <ol>
         <li>
             <p><span style="background-color: yellow;"><strong>Appeal to majority:</strong></span></p>
-            <p><span style="background-color: yellow;">This is the most obvious one: As with many of their core content policies, the entire premise of this policy in its current form rests on the premise that whatever most secondary (and beyond) sources do is what Wikipedia should do, regardless of how right or wrong it may be.</span></p>
+            <p><span style="background-color: yellow;">This is the most obvious one: As with many of their core content policies, the entire premise of this policy in its current form rests on the premise that whatever most secondary (and beyond) sources do is what Wikipedia should do, regardless of how right or wrong it may be. They don&rsquo;t care to distinguish between a majority that is correct and a majority that is merely entrenched.</span></p>
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>Appeal to tradition:</strong></span></p>
-            <p><span style="background-color: yellow;">The implicit argument here is that, since the industry used SI prefixes for binary quantities for decades, that alone somehow makes this practice legimitate.  of arguments that people have been having about this policy, &ldquo;the industry simply did not embrace the IEC prefixes&rdquo; is constantly treated as a conclusion, instead of a problem that needs to be addressed.</span></p>
+            <p><span style="background-color: yellow;">The implicit argument here is that, since the industry used SI prefixes for binary quantities for decades, that alone somehow makes this practice legimitate. In the arguments found in the talk page archives, the community constantly tries to twist &ldquo;the industry simply did not embrace the IEC prefixes&rdquo; into a conclusion, instead of acknowledging it as the problem that it is, that needs to be addressed.</span></p>
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>Naturalistic fallacy:</strong></span></p>
-            <p><span style="background-color: yellow;">&ldquo;The industry <i>does</i> behave this way, therefore they <i>should.</i> The critical distinction between &ldquo;is&ldquo; and &ldquo;should&ldquo; is entirely (and deliberately) omitted.</span></p>
+            <p><span style="background-color: yellow;">&ldquo;The industry <i>does</i> behave this way, therefore they <i>should.</i>&rdquo; The critical distinction needed between &ldquo;is&ldquo; and &ldquo;ought&ldquo; is entirely (and deliberately) omitted here.</span></p>
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>Red herring:</strong></span></p>
@@ -88,11 +88,11 @@
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>False equivalence:</strong></span></p>
-            <p><span style="background-color: yellow;">The policy treats an informal, improper industry convention that predates modern standards as being equal (even if only roughly so) to internationally-ratified standards backed by the IEC, ISO, BIPM, and NIST. Many will claim that this is an appeal to authority, but that&rsquo;s a red herring attempting to masquerade as neutrality.</span></p>
+            <p><span style="background-color: yellow;">The policy treats an informal, improper industry convention that predates modern standards as being equal (even if only roughly so) to internationally-ratified standards backed by the IEC, ISO, BIPM, and NIST. Many will claim that this is an appeal to authority, but that&rsquo;s a red herring attempting to masquerade as neutrality, since <i>the entire reason why standards and their authorities exist is to ensure consistency in how terms are defined and used.</i></span></p>
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>Reverse onus:</strong></span></p>
-            <p><span style="background-color: yellow;">The community tries to push the burden of proof on those who want to use the correct terminology, while assuming that those who defend the customary convention hold the default position.</span></p>
+            <p><span style="background-color: yellow;">The community tries to push the burden of proof on those who want to use the correct terminology, under the (completely incorrect) assumption that those who defend the customary convention hold the default position.</span></p>
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong><i>Circular reasoning:</i></strong></span></p>
