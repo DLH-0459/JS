@@ -76,7 +76,7 @@
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>Appeal to tradition:</strong></span></p>
-            <p><span style="background-color: yellow;">The implicit argument here is that, since the industry used SI prefixes for binary quantities for decades, that alone somehow makes this practice legimitate. In the arguments found in the talk page archives, the community constantly tries to twist &ldquo;the industry simply did not embrace the IEC prefixes&rdquo; into a conclusion, instead of acknowledging it as the problem that it is, that needs to be addressed.</span></p>
+            <p><span style="background-color: yellow;">The implicit argument here is that, since the customary convention has been in use for decades, that alone somehow makes it legimitate. In the arguments found in the talk page archives, the community constantly tries to misleadingly present &ldquo;the industry simply did not embrace the IEC prefixes&rdquo; as a conclusion, instead of acknowledging it as the problem that it is, that needs to be addressed.</span></p>
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>Naturalistic fallacy:</strong></span></p>
@@ -88,11 +88,11 @@
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>False equivalence:</strong></span></p>
-            <p><span style="background-color: yellow;">The policy treats an informal, improper industry convention that predates modern standards as being equal (even if only roughly so) to internationally-ratified standards backed by the IEC, ISO, BIPM, and NIST. Many will claim that this is an appeal to authority, but that&rsquo;s a red herring attempting to masquerade as neutrality, since <i>the entire reason why standards and their authorities exist is to ensure consistency in how terms are defined and used.</i></span></p>
+            <p><span style="background-color: yellow;">The policy treats the informal, improper customary convention that predates modern standards as being equal (even if only roughly so) to internationally-ratified standards backed by the IEC, ISO, BIPM, and NIST. Many will claim that this is an appeal to authority, but that&rsquo;s a red herring attempting to masquerade as neutrality, since <i>the entire reason why standards and standards bodies exist is to ensure consistency in how terms are defined and used.</i></span></p>
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>Reverse onus:</strong></span></p>
-            <p><span style="background-color: yellow;">The community tries to push the burden of proof on those who want to use the correct terminology, under the (completely incorrect) assumption that those who defend the customary convention hold the default position.</span></p>
+            <p><span style="background-color: yellow;">The community pushes the burden of proof onto those who want to use the modern standard terminology, under the incorrect (and deeply misleading) assumption that defenders of the customary convention hold the default position.</span></p>
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong><i>Circular reasoning:</i></strong></span></p>
@@ -100,7 +100,7 @@
         </li>
     </ol>
 
-    <p><span style="background-color: yellow;">As you can see, MOS:COMPUNITS in its current form is so ass-backwards that it needs to be completely rewritten from scratch. But this is about articles on computers&mdash;an enormous topic, involving an enormous industry, and where an enormous number of people have an enormous amount invested. Even <i>attempting</i> to challenge this policy in absolutely any legitimate way is grounds for a major conflict akin to a second United States Civil War. Rewriting the whole thing from scratch? Forget it. ${desc_x}</span></p>
+    <p><span style="background-color: yellow;">MOS:COMPUNITS in its current form is so detached from reality that it desperately needs to be completely rewritten from scratch. But this is about articles on computers&mdash;an enormous topic, involving an enormous industry, and where an enormous number of people have an enormous amount invested. Even <i>attempting</i> to challenge this policy in absolutely any legitimate way is grounds for a major conflict akin to a second United States Civil War. Rewriting the whole thing from scratch? Forget it. ${desc_x}</span></p>
 
     <hr />
 
