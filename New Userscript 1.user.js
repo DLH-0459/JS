@@ -84,7 +84,7 @@
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>Red herring:</strong></span></p>
-            <p><span style="background-color: yellow;">The community consistently attempts to use the unfamiliarity of the IEC prefixes as a reason to avoid them (familiarity bias), when an encyclopedia&rsquo;s entire purpose is to inform readers of things, even if they do not already know about it. If anything, the combination of lack of familiarity with the IEC binary prefixes is an argument <i>in favour of</i> using (and explaining) them, not against it.</span></p>
+            <p><span style="background-color: yellow;">The community consistently attempts to use the unfamiliarity of the IEC prefixes as a reason to avoid them (familiarity bias), when an encyclopedia&rsquo;s entire purpose is to inform readers of things, even if they do not already know about it. If anything, the lack of familiarity with the IEC binary prefixes is an argument <i>in favour of</i> using (and explaining) them, not against it.</span></p>
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong>False equivalence:</strong></span></p>
