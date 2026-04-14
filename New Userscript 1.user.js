@@ -96,7 +96,7 @@
         </li>
         <li>
             <p><span style="background-color: yellow;"><strong><i>Circular reasoning:</i></strong></span></p>
-            <p><span style="background-color: yellow;">This is probably the most damaging of them all: The policy defers to referencing existing sources, but in many topics on computing, most of the otherwise &ldquo;reliable&rdquo; sources use were written under the same obsolete customary convention that the policy is supposed to be governing. By justifying each other, the sources and policy basically jerk each other off, but the community consistently refuses to acknowledge this circularity.</span></p>
+            <p><span style="background-color: yellow;">This is probably the most damaging of them all: The policy defers to referencing existing sources, but in many topics on computing, most of the otherwise &ldquo;reliable&rdquo; sources use the same obsolete customary convention that the policy is supposed to be advocating against. By justifying each other, the sources and policy basically jerk each other off, but the community consistently refuses to acknowledge this circularity.</span></p>
         </li>
     </ol>
 
