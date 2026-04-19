@@ -94,7 +94,7 @@
         </li>
     </ol>
 
-    <p><span style="background-color: yellow;">MOS:COMPUNITS in its current form is so ass-backwards that it desperately needs to be completely rewritten from scratch. But this is about articles on computers&mdash;an enormous topic, involving an enormous industry, and one where an enormous number of people have an enormous amount invested. Even <i>attempting</i> to challenge this policy in absolutely any legitimate way whatsoever is grounds for a major armed conflict akin to a second United States Civil War, no matter how professional your attitude is. Rewriting the whole thing from scratch? Forget it. ${desc_x}</span></p>
+    <p><span style="background-color: yellow;">MOS:COMPUNITS in its current form is so ass-backwards that it desperately needs to be completely rewritten from scratch. But this is about articles on computers&mdash;an enormous topic, involving an enormous industry, and one where an enormous number of people have an enormous amount invested. Even <i>attempting</i> to challenge this policy in absolutely any legitimate way whatsoever is grounds for a major armed conflict akin to a second United States Civil War. Rewriting the whole thing from scratch? Forget it. ${desc_x}</span></p>
 
     <hr />
 
