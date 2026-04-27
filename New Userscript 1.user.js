@@ -15,7 +15,7 @@
     let comment = document.querySelectorAll("div.usertext-body.md-container > div")[3];
     let bq = document.querySelectorAll("blockquote")[0];
     let current_year = (new Date()).getFullYear();
-    let desc_x = "Your right to edit Wikipedia by swinging your hammer ends at the nose of some wack nerd who is more willing to waste everyone&rsquo;s time and effort in edit wars than you. If you do not have the tenacity of someone with nothing left to lose and nothing else to do in their life, you won&rsquo;t (and can&rsquo;t) win, no matter how right or wrong you are.";
+    let desc_x = "Your right to edit Wikipedia by swinging your hammer ends at the nose of whatever wack nerd is most willing to waste everyone&rsquo;s time and effort in edit wars. If you don&rsquo;t have the tenacity of someone with nothing left to lose and nothing else to do in their life, you won&rsquo;t (and can&rsquo;t) win, no matter how right or wrong you are.";
 
     comment.innerHTML = `
     <p><span style="background-color: yellow;">I agree with this poster, I just wanted to expand that the combination of editor bias and bad summaries of sources together (rather than in isolation) are the biggest reasons the site is unreliable. A lot of Wikipedians have their own pet sources they like; often times they haven&rsquo;t gone to the library lately, and many sources (both in print and online) have not been updated or synthesised with the current beliefs on things, so many articles end up being more representative of whatever sources were available to the editors who last touched them, and not necessarily of everything available.</span></p>
@@ -24,13 +24,13 @@
 
     <ol>
         <li>
-            <p><span style="background-color: yellow;"><strong>Their sourcing policies systematically separate claims from evidence:</strong></span></p>
-            <p>Wikipedia explicitly gives an <span style="background-color: yellow;">extremely strong</span> preference for <span style="background-color: yellow;">secondary, tertiary, etc.</span> sources and recently published accounts <span style="background-color: yellow;">over primary sources, regardless of the topic.</span> Both of these <span style="background-color: yellow;">effectively</span> equate to a requirement that the documentation be as distant as possible from the actual evidence. That is the exact opposite of what an expert will do, so experts are effectively prohibited from using good practice. While Wikipedia&rsquo;s policies do not forbid directly citing primary sources, some policies do firmly declare, for example, <a href="https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources"><i>&ldquo;<b>do not</b> analyze, synthesize, interpret, or evaluate material found in a primary source yourself; instead, refer to reliable secondary sources that do so.&rdquo;</i></a> This is the opposite of what experts actually do.</p>
+            <p><span style="background-color: yellow;"><strong>Poor sourcing policies.</strong></span></p>
+            <p>Wikipedia explicitly gives an <span style="background-color: yellow;">extremely strong</span> preference for <span style="background-color: yellow;">secondary</span> sources and recently published accounts <span style="background-color: yellow;">over primary sources, regardless of the topic.</span> Both of these <span style="background-color: yellow;">effectively</span> equate to a requirement that the documentation be as distant as possible from the actual evidence. That is the exact opposite of what an expert will do, so experts are effectively prohibited from using good practice. While Wikipedia&rsquo;s policies do not forbid directly citing primary sources, some policies do firmly declare, for example, <a href="https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources"><i>&ldquo;<b>do not</b> analyze, synthesize, interpret, or evaluate material found in a primary source yourself; instead, refer to reliable secondary sources that do so.&rdquo;</i></a> This is the opposite of what experts actually do.</p>
 
             <p><span style="background-color: yellow;">In fields like history, religion, politics, and social issues, Wikipedia&rsquo;s deference to secondary sources is damaging but perhaps unsurprising&mdash;these fields are controversial just by their very nature, so bias and interpretation problems are endemic and difficult to control for. But even in STEM fields, a domain where Wikipedia has the best chance of getting things right, where facts are verifiable and correct answers exist, it fails in exactly the same way: the secondary source layer that Wikipedia requires people to defer to&mdash;journalism and popular science articles&mdash;are routinely full of inaccuracies. A factually wrong science news article from a major outlet carries more procedural weight than the peer-reviewed paper it misrepresents, because the article is a &ldquo;reliable secondary source&rdquo; and any interpretation of the paper itself will be dismissed as &ldquo;original research.&rdquo; This preference has been weaponised into one of the most effective agenda-pushing tools on Wikipedia, despite being designed to prevent exactly that.</span></p>
         </li>
         <li>
-            <p><span style="background-color: yellow;"><strong>Their core content policies are an appeal to majority:*</strong></span></p>
+            <p><span style="background-color: yellow;"><strong>Their core content policies are an appeal to majority.*</strong></span></p>
             <p><span style="background-color: yellow;">If you look at their policy on &ldquo;Verifiability,&rdquo; you&rsquo;ll see that their threshold for inclusion is whether or not it can be &ldquo;verified&rdquo; by &ldquo;reliable&rdquo; sources, not about whether or not it is true. So if, for example, 80% or more of &ldquo;reliable&rdquo; secondary (and beyond) sources repeat a flawed account of something, Wikipedia will perpetuate that, because content that states what is the most true or accurate will be a minority viewpoint, and it will fail verification because prioritising it will be considered &ldquo;giving it undue weight.&rdquo; This creates even more room for error:</span></p>
             <ul>
                 <li>
@@ -48,7 +48,7 @@
             </ul>
         </li>
         <li>
-            <p><span style="background-color: yellow;"><strong>&ldquo;Dispute resolution&rdquo; is an arms race:</strong></span></p>
+            <p><span style="background-color: yellow;"><strong>&ldquo;Dispute resolution&rdquo; is an arms race.</strong></span></p>
             <p>Bureaucracy and edit wars are won by <span style="background-color: yellow;">those who are most familiar with years of rules and arbitration, or who are most willing to waste others&rsquo; time, and rarely by those who are the</span> most correct.</p>
         </li>
     </ol>
@@ -96,7 +96,7 @@
         </li>
     </ol>
 
-    <p><span style="background-color: yellow;">MOS:COMPUNITS in its current form is so ass-backwards that it desperately needs to be completely rewritten from scratch. But this is about articles on computers&mdash;an enormous topic, involving an enormous industry, and one where an enormous number of people have an enormous amount invested. Even <i>attempting</i> to challenge this policy in absolutely any legitimate way whatsoever is grounds for a major armed conflict akin to a second United States Civil War. Rewriting the whole thing from scratch? Forget it. ${desc_x}</span></p>
+    <p><span style="background-color: yellow;">MOS:COMPUNITS in its current form is so ass-backwards that it desperately needs to be completely rewritten from scratch. But this is about articles on computers&mdash;an enormous topic, involving an enormous industry, and one where an enormous number of people have an enormous amount invested. Even <i>attempting</i> to criticise this policy in absolutely any legitimate way is grounds for a major armed conflict akin to a second United States Civil War. Rewriting the whole thing from scratch? Forget it. ${desc_x}</span></p>
 
     <hr />
 
