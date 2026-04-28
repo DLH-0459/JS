@@ -26,6 +26,7 @@ String.prototype.encodeBase64 = function(a = "") {
             + ((b1 === undefined) ? "=" : alphabet[(tr >> 6) & 0x3F])   // First padding
             + ((b2 === undefined) ? "=" : alphabet[tr & 0x3F]);         // Second padding
     }
+    
     return result;
 };
 
