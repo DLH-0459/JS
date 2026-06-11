@@ -14,7 +14,7 @@
 
     let comment = document.querySelectorAll("div.usertext-body.md-container > div")[3];
     let bq = document.querySelectorAll("blockquote")[0];
-    let desc_x = `Your right to edit Wikipedia ends at the nose of some wack gatekeeper who is more willing to waste everyone&rsquo;s time and effort in edit wars than you will ever be. If you don&rsquo;t have near-unlimited time and persistence, you won&rsquo;t (and can&rsquo;t) win, no matter how correct you are.`;
+    let desc_x = `Your right to edit Wikipedia ends at the nose of some wack gatekeeper who is more willing to waste everyone&rsquo;s time and effort in edit wars than you. If you don&rsquo;t have near-unlimited time and persistence, you won&rsquo;t (and can&rsquo;t) win, no matter how correct you are.`;
 
     comment.innerHTML = `
     <p><span style="background-color: yellow;">I agree with this poster, I just wanted to expand that the combination of editor bias and bad summaries of sources together (rather than in isolation) are the biggest reasons the site is unreliable. A lot of Wikipedians have their own pet sources they like; often times they haven&rsquo;t gone to the library lately, and many sources (both in print and online) have not been updated or synthesised with the current beliefs on things, so many articles end up being more representative of whatever sources were available to the editors who last touched them, and not necessarily of everything available.</span></p>
