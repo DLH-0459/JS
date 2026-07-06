@@ -42,7 +42,7 @@
                 </li>
                 <li>
                     <p><strong>No mechanisms for reliably weighing the quality of sources:</strong></p>
-                    <p>On Wikipedia, a review in a mid-tier journal written in 2003, meta-analysis in a top-tier journal written 5 years ago, news article written this year, and even some random person&rsquo;s blog (at least in some cases) would all carry roughly equal weight under their sourcing policies, provided all of them can be considered &ldquo;reliable.&rdquo; But when editors try to weigh which sources are &ldquo;better&rdquo; or &ldquo;more reliable,&rdquo; the outcome is often decided by what, or how many, editors voted or participated in relevant discussions, or by whatever agendas are being pushed by the user or group of users and mods who essentially &ldquo;own&rdquo; certain articles or policies, not by any epistemic standard.</p>
+                    <p>On Wikipedia, a review in a mid-tier journal written in 2003, meta-analysis in a top-tier journal written 5 years ago, news article written this year, and even some random person&rsquo;s blog (at least in some cases) would all carry roughly equal weight under their sourcing policies, provided all of them can be considered &ldquo;reliable.&rdquo; But when editors try to weigh which sources are &ldquo;better&rdquo; or &ldquo;more reliable,&rdquo; the outcome is often decided by what, or how many, editors voted or participated in relevant discussions, or by whatever agendas are being pushed by the groups of users and administrators who essentially &ldquo;own&rdquo; certain articles or policies, not by any epistemic standard.</p>
                 </li>
             </ul>
         </li>
