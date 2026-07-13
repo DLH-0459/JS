@@ -34,7 +34,7 @@
 
             <p>The combination of what has become of these two policies means that Wikipedia is not only dangerously vulnerable to errors, but will often amplify and perpetuate them when they do occur. When covering history, religion, politics, and social issues, this is unsurprising&mdash;these fields are inherently controversial, so bias is difficult to control. What&rsquo;s worse is that it also fails in STEM, the places where Wikipedia is genuinely good overall. In STEM, questions have correct answers, facts are verifiable, and standards exist, but since most journalists have deadlines and lukewarm (at best) background in the field they are covering, and since the information involved is often very dense and hard to understand, secondary sources like news articles and popular science outlets are routinely full of inaccuracies, some of them deliberate (especially when it comes to environmental issues). And in non-STEM topics that are more niche or obscure but non-controversial, the same thing happens, where the accuracy of articles covering them will be inconsistent at best, as well. Despite this, an article from a major outlet that is factually wrong would still carry significantly more procedural weight on Wikipedia than the source(s) it (mis)represents, because the secondary source&rsquo;s article is a &ldquo;reliable secondary source&rdquo; and any interpretation of the original source itself runs the risk of being dismissed as &ldquo;original research.&rdquo; The policy that was designed to keep agendas out of Wikipedia has become weaponised over the years into one of the most reliable ways to push them in.</p>
 
-            <p>The failure modes this produces are far too many to list, but fall into three categories:</p>
+            <p>The failure modes this produces are far too many to list, but fall into four distinct categories:</p>
 
             <ul>
                 <li>
@@ -55,7 +55,7 @@
                 </li>
             </ul>
 
-            <p>These three failure modes are the direct consequences of the core content policies institutionalising at least four fallacies as the operating logic of the entire encyclopedia:</p>
+            <p>These failure modes are the direct consequences of the core content policies institutionalising at least four fallacies as the operating logic of the entire encyclopedia:</p>
 
             <ol>
                 <li>
