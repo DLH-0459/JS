@@ -22,7 +22,7 @@
 
     <p>There are two massive obstacles that are almost guaranteed to eventually drive away anyone who&rsquo;s dumb enough to attempt editing Wikipedia in a serious and constructive manner:</p>
 
-    <ol>
+    <ol style="list-style-type: upper-alpha;">
         <li>
             <p><strong>Poor sourcing policies.</strong></p>
             <p>Wikipedia explicitly gives an extremely strong preference for secondary sources and recently published accounts over primary sources. Both of these effectively equate to a requirement that the documentation be as <i>distant as possible</i> from the actual evidence. That is the exact opposite of what an expert will do, so experts are effectively prohibited from using good practice. While Wikipedia never explicitly forbids direct citations of primary sources, their &ldquo;no original research&rdquo; policy does firmly declare <a href="https://en.wikipedia.org/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources"><i>&ldquo;<b>do not</b> analyze, synthesize, interpret, or evaluate material found in a primary source yourself; instead, refer to [&lsquo;reliable&rsquo;] (whatever that word means anymore) secondary sources that do so.&rdquo;</i></a> That is the opposite of what experts actually do.</p>
@@ -30,13 +30,13 @@
             <p>At the same time, Wikipedia&rsquo;s <a href="https://en.wikipedia.org/wiki/Wikipedia:Verifiability">&ldquo;Verifiability&rdquo;</a> policy makes the accuracy of secondary sources a single point of failure: the threshold for inclusion is whether something can be &ldquo;verified&rdquo; by &ldquo;reliable&rdquo; sources, not whether it is true. So if most secondary sources repeat a flawed account of something, Wikipedia will perpetuate it, even if the primary sources are correct. Whenever there is an incorrect majority, any content stating what is actually true will be a minority viewpoint, and will fail verification because prioritising it is considered &ldquo;giving it undue weight,&rdquo; and any interpretation of the correct viewpoint will be prone to being dismissed as &ldquo;original research,&rdquo; no matter how obvious the inaccuracies are.</p>
 
             <p>The most-cited real-world account of what this means in practice is &ldquo;The &lsquo;Undue Weight&rsquo; of Truth on Wikipedia,&rdquo; a 2012 article written by the historian Timothy Messer-Kruse and published in the Chronicle of Higher Education. Messer-Kruse had spent years researching an 1886 labour incident in Chicago, known as the Haymarket affair, for a peer-reviewed academic book, and in doing so had uncovered documented primary evidence that overturned several long-standing claims routinely repeated in secondary sources. When he attempted to correct the Wikipedia article on the subject using his own published research, his corrections were repeatedly reverted by editors citing the &ldquo;verifiability&rdquo; and &ldquo;undue weight&rdquo; policies. His experience is now a case study where an actual credentialled expert, with published peer-reviewed research on his side, was systematically banned from correcting a Wikipedia article because his corrections came from primary evidence rather than from the majority of existing secondary sources. When he pressed the point on a talk page, a Wikipedian with the username &ldquo;Gwen Gale&rdquo; eventually explained the policy to him in plain terms: <a href="https://en.wikipedia.org/wiki/User_talk:MesserKruse#verifiability">&ldquo;Wikipedia is not &lsquo;truth,&rsquo; Wikipedia is &lsquo;verifiability&rsquo; of reliable sources. Hence, if most secondary sources which are taken as reliable happen to repeat a flawed account or description of something, Wikipedia will echo that.&rdquo;</a></p>
-            
-            <p>What I find most striking about the user who replied to Messer-Kruse is how they were basically like &ldquo;yeah, we lie sometimes, but that&rsquo;s just how we are, lawl&rdquo; without giving a fuck&mdash;they didn&rsquo;t deny the failure, hide it, or treat it as anything worth apologising for; instead, they explained it as if it were unremarkable&mdash;because to the people maintaining the system, it is. Here, we can see multiple logical fallacies at play:</p>
-            
+
+            <p>What I find most striking about the user who replied to Messer-Kruse is how they were basically like &ldquo;yeah, we lie sometimes, but that&rsquo;s just how we are, lawl&rdquo; without giving a fuck&mdash;they didn&rsquo;t deny the failure, hide it, or treat it as anything worth apologising for; instead, they explained it as if it were unremarkable and as if everyone should just accept it without question&mdash;because to the people maintaining the system, it is.</p>
+
             <p>The combination of what has become of these two policies means that Wikipedia is not only dangerously vulnerable to errors, but will often amplify and perpetuate them when they do occur. When covering history, religion, politics, and social issues, this is unsurprising&mdash;these fields are inherently controversial, so bias is difficult to control. What&rsquo;s worse is that it also fails in STEM, the places where Wikipedia is genuinely good overall. In STEM, questions have correct answers, facts are verifiable, and standards exist, but since most journalists have deadlines and lukewarm (at best) background in the field they are covering, and since the information involved is often very dense and hard to understand, secondary sources like news articles and popular science outlets are routinely full of inaccuracies, some of them deliberate (especially when it comes to environmental issues). And in non-STEM topics that are more niche or obscure but non-controversial, the same thing happens, where the accuracy of articles covering them will be inconsistent at best, as well. Despite this, an article from a major outlet that is factually wrong would still carry significantly more procedural weight on Wikipedia than the source(s) it (mis)represents, because the secondary source&rsquo;s article is a &ldquo;reliable secondary source&rdquo; and any interpretation of the original source itself runs the risk of being dismissed as &ldquo;original research.&rdquo; The policy that was designed to keep agendas out of Wikipedia has become weaponised over the years into one of the most reliable ways to push them in.</p>
-            
+
             <p>The failure modes this produces are far too many to list, but fall into three categories:</p>
-            
+
             <ul>
                 <li>
                     <p><strong>Textbook lag:</strong></p>
@@ -47,15 +47,40 @@
                     <p>Also known as &ldquo;citogenesis,&rdquo; circular reporting is one of Wikipedia&rsquo;s deadliest flaws. Sometimes, journalists will pull content from Wikipedia articles to use in their news articles, then at some point the articles written by those same journalists will be considered &ldquo;reliable sources,&rdquo; and then <i>those news articles get used as references on those same (or related) Wikipedia articles.</i> Since errors can easily get laundered into a false consensus, Wikipedia and the sources it cites become locked in an infinite loop of self-validation, and media activists and malicious actors can completely fabricate events and viewpoints using this vulnerability.</p>
                 </li>
                 <li>
+                    <p><strong>False balance:</strong></p>
+                    <p>The &ldquo;undue weight&rdquo; policy is supposed to prevent minority views from being given disproportionate coverage, and in principle this is an excellent goal. But the policy is calibrated to the balance of <i>source coverage,</i> not to the balance of <i>actual evidence</i>. In fields like STEM, where the actual evidence often points unanimously in one direction while the secondary source coverage is more mixed, the policy produces the exact failure it was designed to prevent. Wikipedia articles about STEM topics routinely present near-unanimous scientific consensus as though it were an ongoing debate, or treat well-established findings as one perspective among many, because many contrarian sources exist and the policy has no mechanism for recognising that the contrarian sources are wrong or outdated, which misleads readers about the actual state of the evidence.</p>
+                </li>
+                <li>
                     <p><strong>No mechanisms for reliably and fairly weighing the quality of sources:</strong></p>
                     <p>On Wikipedia, a review in a mid-tier journal written in the 1950s, meta-analysis in a top-tier journal written ten years ago, news article written five years ago, research paper or other primary publication released this year, and even some random person&rsquo;s blog (in some cases) would all carry roughly equal weight under their sourcing policies, provided all of them can be considered &ldquo;reliable.&rdquo; But when sources are weighed to determine which ones are &ldquo;better&rdquo; or &ldquo;more reliable,&rdquo; the outcome is often decided by what, or how many, users voted or participated in relevant discussions, or by whatever agendas are being pushed by the self-appointed Wiki-lawyers or Wiki-police who have monopolised certain articles and the policies governing them into their personal fiefdom, not by any epistemic standard.</p>
                 </li>
             </ul>
+
+            <p>These three failure modes are the direct consequences of the core content policies institutionalising at least four fallacies as the operating logic of the entire encyclopedia:</p>
+
+            <ol>
+                <li>
+                    <p><strong>Appeal to majority:</strong></p>
+                    <p>This is the most obvious one: the premise that their core content policies in their current form rests on is the idea that whatever most sources do is what Wikipedia should do. Their &ldquo;undue weight&rdquo; provision requires content to reflect the balance of coverage in reliable sources, but fails to distinguish between a majority that reflects standards or expert consensus and a majority that reflects propagated error.</p>
+                </li>
+                <li>
+                    <p><strong>Appeal to authority:</strong></p>
+                    <p>The existence of a source in a qualifying venue is automatically treated as authoritative on the underlying question, regardless of whether the sources in question are actually correct.</p>
+                </li>
+                <li>
+                    <p><strong><i>Ignoratio elenchi:</i></strong></p>
+                    <p>Substantive challenges to article content are routinely dodged by automatically redirecting to the procedural question of how much or little the challenges comply with policy, rather than to the more important question of how accurate the sources are.</p>
+                </li>
+                <li>
+                    <p><strong>Reverse onus:</strong></p>
+                    <p>When the majority of sources covering a particular topic are wrong, the policies attempt to push the burden of proof onto anyone attempting to make corrections, under the incorrect and incredibly misleading assumption that the people defending its current state somehow hold the default position.</p>
+                </li>
+            </ol>
         </li>
         <li>
             <p><strong>&ldquo;Dispute resolution&rdquo; is an arms race.</strong></p>
             <p>At first glance, Wikipedia&rsquo;s dispute resolution process (<a href="https://en.wikipedia.org/wiki/Wikipedia:Dispute_resolution">WP:DR</a>) looks like an excellent structure for resolving disagreements. If you look deeper, however, you&rsquo;ll find that, in practice, it is actually a graduated escalation ladder&mdash;talk page discussions, requests for comment, noticeboards, mediation, and arbitration&mdash;where each successively higher rung is an increasingly costly and aggressive contest of time, procedural skill, and sheer emotional endurance that decides the winners based on whoever is most willing to keep investing, not by whoever is the most grounded in reality.</p>
-            
+
             <p>Even if someone is completely unable to wield Wikipedia&rsquo;s policies and years upon years of arbitration and bureaucracy as weapons, they can still win, as long as they don&rsquo;t do anything obviously illegal&mdash;again, not because they were the most correct, but because they <i>outlasted</i> everyone else, regardless of how right or wrong anyone involved actually was.</p>
         </li>
     </ol>
@@ -74,13 +99,9 @@
 
     <p>The practical result is that the customary convention is still deeply entrenched nowadays, and whether the SI prefixes mean powers of 1,000 or 1,024 depends on what you&rsquo;re reading. On Wikipedia, they do this as well, and by doing so they are perpetuating a long-standing malpractice.</i></p>
 
-    <p>And as if this wasn&rsquo;t already bad enough, there are <b><i>17 pages</i></b> of arguments involving people trying to get the community to fix this policy, bringing forth all sorts of perfectly valid concerns (including the ones I brought up), only to end up drowning in cult-like procedural resistance and condescension from people more interested in defending rules than actually engaging with any of our concerns, and I believe that the number of additional times this has happened since the 17<sup>th</sup> archive, including the argument I had, could easily make up another page. MOS:COMPUNITS in its current form institutionalises at least six logical fallacies at once:</p>
+    <p>And as if this wasn&rsquo;t already bad enough, there are <b><i>17 pages</i></b> of arguments involving people trying to get the community to fix this policy, bringing forth all sorts of perfectly valid concerns (including the ones I brought up), only to end up drowning in cult-like procedural resistance and condescension from people more interested in defending rules than actually engaging with any of our concerns, and I believe that the number of additional times this has happened since the 17<sup>th</sup> archive, including the argument I had, could easily make up another page. MOS:COMPUNITS in its current form institutionalises at least four <i>additional</i> logical fallacies on top of the ones mentioned above:</p>
 
-    <ol>
-        <li>
-            <p><strong>Appeal to majority:</strong></p>
-            <p>This is the most obvious one: As with all of their core content policies, the premise that this policy in its current form rests on is the idea that whatever most sources do is what Wikipedia should do. They completely refuse to distinguish between a majority that is correct and a majority that is merely entrenched.</p>
-        </li>
+    <ol start="5">
         <li>
             <p><strong>Appeal to tradition:</strong></p>
             <p>The policy makes the implicit argument that, since the customary convention has been in use for decades, that alone somehow makes it legitimate. In the arguments found in the talk page archives, gatekeepers constantly try to present &ldquo;the industry simply did not embrace the IEC prefixes&rdquo; as a conclusion, instead of acknowledging it as a problem that needs to be addressed.</p>
@@ -97,13 +118,9 @@
             <p><strong>False equivalence:</strong></p>
             <p>The policy treats the customary convention&mdash;an informal industry hack&mdash;as being equal (even if only roughly so) to internationally-ratified standards backed by the IEC, ISO, BIPM, and NIST. <i>The entire reason why standards and standards bodies exist is to ensure consistency in how terms are defined and used,</i> and the use of SI prefixes for powers of 1,024 instead of 1,000 by computing &ldquo;professionals&rdquo; goes against these goals.</p>
         </li>
-        <li>
-            <p><strong>Reverse onus:</strong></p>
-            <p>The policy attempts to push the burden of proof onto those who want to use the modern standard terminology, under the incorrect and incredibly misleading assumption that defenders of the customary convention somehow hold the default position.</p>
-        </li>
     </ol>
 
-    <p>I&rsquo;ve seen many people say that the last two points would be an appeal to authority, but that&rsquo;s merely a red herring masquerading as neutrality. Citing the IEC, ISO, BIPM, or NIST on what a standardised unit means is not an appeal to an irrelevant authority; these are the exact institutions whose entire purpose is to answer precisely this kind of question. Saying &ldquo;citing the IEC&rsquo;s definition of a kilobyte is just an appeal to authority&rdquo; is like saying that it&rsquo;s an appeal to authority to cite the Oxford English Dictionary on what a word means.</p>
+    <p>I&rsquo;ve seen many people say that the last point would be an appeal to authority, but that&rsquo;s merely a red herring masquerading as neutrality. Citing the IEC, ISO, BIPM, or NIST on what a standardised unit means is not an appeal to an irrelevant authority; these are the exact institutions whose entire purpose is to answer precisely this kind of question. Saying &ldquo;citing the IEC&rsquo;s definition of a kilobyte is just an appeal to authority&rdquo; is like saying that it&rsquo;s an appeal to authority to cite the Oxford English Dictionary on what a word means.</p>
 
     <hr />
 
