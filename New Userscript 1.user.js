@@ -69,11 +69,11 @@
                 </li>
                 <li>
                     <p><strong><i>Ignoratio elenchi:</i></strong></p>
-                    <p>Substantive challenges to article content are routinely dodged by automatically redirecting to the procedural question of how much or little the challenges comply with policy, rather than to the more important question of how accurate the sources are.</p>
+                    <p>Substantive challenges to article content are routinely dodged by automatically redirecting to the procedural question of how much or little the challenges comply with Wikipedia&rsquo;s policies, rather than to the more important question of how accurate the sources are.</p>
                 </li>
                 <li>
                     <p><strong>Reverse onus:</strong></p>
-                    <p>When the majority of sources covering a particular topic are wrong, the policies attempt to push the burden of proof onto anyone attempting to make corrections, under the incorrect and incredibly misleading assumption that the people defending its current state somehow hold the default position.</p>
+                    <p>When the majority of sources covering a particular topic are wrong, Wikipedia&rsquo;s policies will attempt to push the burden of proof onto anyone attempting to make corrections, under the incorrect and incredibly misleading assumption that the people defending the majority viewpoint somehow hold the default position.</p>
                 </li>
             </ol>
         </li>
