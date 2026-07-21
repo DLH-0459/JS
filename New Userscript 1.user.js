@@ -4,7 +4,7 @@
 // @version      2026-06-11
 // @description  Elaborate on bullet points by user
 // @author       You
-// @match        *://old.reddit.com/r/explainlikeimfive/comments/3ye7j7/eli5why_is_wikipedia_considered_unreliable_yet/
+// @match        *://*.reddit.com/r/explainlikeimfive/comments/3ye7j7/eli5why_is_wikipedia_considered_unreliable_yet/
 // @icon         http://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
 // ==/UserScript==
@@ -12,7 +12,7 @@
 (function() {
     "use strict";
 
-    let comment = document.querySelectorAll("div.usertext-body.md-container > div")[3];
+    let comment = document.querySelectorAll("div.scalable-text")[1];
     let bq = document.querySelectorAll("blockquote")[0];
     let desc_x = `Your right to edit Wikipedia ends at the nose of some wack gatekeeper who is more willing to waste everyone&rsquo;s time and effort in edit wars than you. If you don&rsquo;t have unlimited time and persistence, you won&rsquo;t (and can&rsquo;t) win, no matter how correct you are.`;
 
@@ -119,7 +119,7 @@
 
     <hr />
 
-    <p><strong>END RESULT:</strong> I created a Wikipedia account in 2017, and had a mostly good time editing for the next seven years. But in 2024, after discovering this policy, trying to bring my concerns to the community, being completely stonewalled like everyone else, and finding out that Wikipedia&rsquo;s problems run far deeper than I initially thought, I ended up abandoning my account entirely, and have no intention of ever returning. What ended up happening, to myself and everyone else that tried to get MOS:COMPUNITS fixed, is that all of us almost got our accounts banned, because the community kept projecting their own pedantry, elitism, and emotional obsession onto us by twisting our criticisms, most of which were entirely truthful and necessary, into evidence that we were somehow contrarians whose only motivation was being different for its own sake. The way Wikipedia and its moderators judge sources and users editing it basically means that a thousand users armed with an industry&rsquo;s beliefs and a majority of sources that mirror those beliefs will automatically be considered more reliable than someone like me who knows what they do and can see past all the bullshit, going in and updating articles to reflect modern standards&NoBreak;&mdash;and while it is entirely possible for you to be revolutionary, the persistence and effort needed is so astronomical that the people who have succeeded at this, while also have a meaningful job, life, or sense of proportion, are extremely few and far between. So we end up with thousands of live articles about computers using conventions that are technically &ldquo;verifiable&rdquo; under Wikipedia&rsquo;s narrow definition of that term but obsolete in essentially every sense that matters, and as bad as this is, this problem is just one relatively small example out of countless others.</p>
+    <p><strong>END RESULT:</strong> I created a Wikipedia account in 2017, and had a mostly good time editing for the next seven years. But in 2024, after discovering this policy, trying to bring my concerns to the community, being completely stonewalled like everyone else, and finding out that Wikipedia&rsquo;s problems run far deeper than I initially thought, I ended up abandoning my account entirely, and have no intention of ever returning. What ended up happening, to myself and everyone else that tried to get MOS:COMPUNITS fixed, is that all of us almost got our accounts banned, because the community kept projecting their own pedantry, elitism, and emotional obsession onto us by twisting our criticisms, most of which were entirely truthful and necessary, into evidence that we were somehow contrarians whose only motivation was being different for its own sake. The way Wikipedia and its moderators judge sources and users editing it basically means that a thousand users armed with an industry&rsquo;s beliefs and a majority of sources that mirror those beliefs will automatically be considered more reliable than someone like me who knows what they do and can see past all the bullshit, going in and updating articles to reflect modern standards&NoBreak;&mdash;and while it is entirely possible for you to be revolutionary, the persistence and effort needed is so astronomical that the people who have succeeded at this, while also having a meaningful job, life, or sense of proportion, are extremely few and far between. So we end up with thousands of live articles about computers using conventions that are technically &ldquo;verifiable&rdquo; under Wikipedia&rsquo;s narrow definition of that term but obsolete in essentially every sense that matters, and as bad as this is, this problem is just one relatively small example out of countless others.</p>
 
     <p>Between the misinformation, poor policies, poor choices of sources, and (in some cases) entire sections that don&rsquo;t belong or are wholly misleading, there&rsquo;s not a huge amount to salvage on Wikipedia that can&rsquo;t be found elsewhere, because even in STEM subjects, there are times where they manage to get even definite, capital-F Facts and Formulæ wrong.</p>
     `;
