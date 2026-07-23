@@ -60,7 +60,7 @@
                 </li>
                 <li>
                     <p><strong>Appeal to authority:</strong></p>
-                    <p>On any topic that is controversial or involves an incorrect majority, sources in qualifying venue are often treated as authoritative on the underlying question immediately, regardless of whether or not they are actually correct.</p>
+                    <p>On any topic that is controversial or involves an incorrect majority, sources in qualifying venues are often immediately treated as authoritative on the topic, regardless of whether or not they are actually correct.</p>
                 </li>
                 <li>
                     <p><strong>Irrelevant conclusion:</strong></p>
@@ -105,7 +105,7 @@
         </li>
         <li>
             <p><strong>Appeal to consequences:</strong></p>
-            <p>The policy consistently attempts to prevent people from overcoming familiarity bias by attempting to use the unfamiliarity of the IEC prefixes as a reason to avoid them, when an encyclopedia&rsquo;s entire purpose is to inform readers of things, even if they do not already know about them. If anything, the lack of familiarity with the IEC binary prefixes is actually an argument <i>in favour of</i> using (and explaining) them, not against it.</p>
+            <p>The policy consistently attempts to prevent people from overcoming familiarity bias by attempting to use the unfamiliarity of the IEC prefixes as a reason to avoid them, when an encyclop&aelig;dia&rsquo;s entire purpose is to inform readers of things, even if they do not already know about them. If anything, the lack of familiarity with the IEC binary prefixes is actually an argument <i>in favour of</i> using (and explaining) them, not against it.</p>
         </li>
         <li>
             <p><strong>False equivalence:</strong></p>
@@ -121,7 +121,7 @@
 
     <p><strong>END RESULT:</strong> I created a Wikipedia account in 2017, and had a mostly good time editing for the next seven years. But in 2024, after discovering this policy, trying to bring my concerns to the community, being completely stonewalled like everyone else, and finding out that Wikipedia&rsquo;s problems run far deeper than I initially thought, I ended up abandoning my account entirely, and have no intention of ever returning. What ended up happening, to myself and everyone else that tried to get MOS:COMPUNITS fixed, is that all of us almost got our accounts banned, because the community kept projecting their own pedantry, elitism, and emotional obsession onto us by twisting our criticisms, most of which were entirely truthful and necessary, into evidence that we were somehow contrarians whose only motivation was being different for its own sake. The way Wikipedia and its moderators judge sources and users editing it basically means that a thousand users armed with an industry&rsquo;s beliefs and a majority of sources that mirror those beliefs will automatically be considered more reliable than someone like me who knows what they do and can see past all the bullshit, going in and updating articles to reflect modern standards&NoBreak;&mdash;and while it is entirely possible for you to be revolutionary, the persistence and effort needed is so astronomical that the people who have succeeded at this, while also having a meaningful job, life, or sense of proportion, are extremely few and far between. So we end up with thousands of live articles about computers using conventions that are technically &ldquo;verifiable&rdquo; under Wikipedia&rsquo;s narrow definition of that term but obsolete in essentially every sense that matters, and as bad as this is, this problem is just one relatively small example out of countless others.</p>
 
-    <p>Between the misinformation, poor policies, poor choices of sources, and (in some cases) entire sections that don&rsquo;t belong or are wholly misleading, there&rsquo;s not a huge amount to salvage on Wikipedia that can&rsquo;t be found elsewhere, because even in STEM subjects, there are times where they manage to get even definite, capital-F Facts and Formulæ wrong.</p>
+    <p>Between the misinformation, poor policies, poor choices of sources, and (in some cases) entire sections that don&rsquo;t belong or are wholly misleading, there&rsquo;s not a huge amount to salvage on Wikipedia that can&rsquo;t be found elsewhere, because even in STEM subjects, there are times where they manage to get even definite, capital-F Facts and Formul&aelig; wrong.</p>
     `;
     bq.innerHTML = `<p>${desc_x}</p>`;
 })();
