@@ -51,7 +51,7 @@
                 </li>
             </ul>
 
-            <p>These failure modes are the direct consequences of the core content policies institutionalising at least four fallacies as the operating logic of the entire encyclopedia:</p>
+            <p>These failure modes are the direct consequences of the core content policies institutionalising at least four fallacies as the operating logic of the entire encyclop&aelig;dia:</p>
 
             <ol>
                 <li>
