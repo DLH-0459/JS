@@ -7,6 +7,7 @@
 // @match        *://*.reddit.com/r/explainlikeimfive/comments/3ye7j7/eli5why_is_wikipedia_considered_unreliable_yet/
 // @icon         http://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
+// @run-at       document-idle
 // ==/UserScript==
 
 (function() {
@@ -80,7 +81,7 @@
         </li>
     </ol>
     <hr />
-    <p>*&nbsp;Some very important policies in certain areas are really, really bad.** A good example is <a href="https://en.wikipedia.org/wiki/MOS:COMPUNITS">MOS:COMPUNITS</a>, a policy that governs articles on computers by, in practice, forcing users to use the obsolete &ldquo;customary&rdquo; convention of using SI prefixes (&ldquo;KB,&rdquo; &ldquo;MB,&rdquo; &ldquo;GB,&rdquo; etc.) for binary (power of 1,024) values when the majority of &ldquo;reliable&rdquo; sources do so, while prohibiting the use of the modern standard terminology (SI prefixes for powers of 1,000) or clearer IEC prefixes (&ldquo;KiB,&rdquo; &ldquo;MiB,&rdquo; &ldquo;GiB,&rdquo; etc.) unless the majority of sources use them that way. This policy completely inverts the entire reason standards exist, and has tarnished so many articles that it desperately needs a complete rewrite from scratch. But this is the policy governing units of bits and bytes&mdash;as such, it affects thousands of articles, involving an enormous topic, an enormous industry, and an awful lot of people with an awful lot invested. Fixing even one article that uses the &ldquo;customary&rdquo; convention or editing just one paragraph of this policy in any way are both grounds for a major conflict akin to a second United States Civil War. Fixing <i>every single article</i> on Wikipedia that does this <i>and</i> rewriting the whole policy from scratch? Forget it. ${desc_x}</p><br />
+    <p>*&nbsp;Some very important policies in certain areas are really, really bad.** A good example is <a href="https://en.wikipedia.org/wiki/MOS:COMPUNITS">MOS:COMPUNITS</a>, a policy that governs articles on computers by, in practice, forcing users to use the obsolete &ldquo;customary&rdquo; convention of using SI prefixes (&ldquo;KB,&rdquo; &ldquo;MB,&rdquo; &ldquo;GB,&rdquo; etc.) for binary (power of 1,024) values when the majority of &ldquo;reliable&rdquo; sources do so, while prohibiting the use of the modern standard terminology (SI prefixes for powers of 1,000) or clearer IEC prefixes (&ldquo;KiB,&rdquo; &ldquo;MiB,&rdquo; &ldquo;GiB,&rdquo; etc.) unless the majority of sources covering something about computers use them that way. This policy completely inverts the entire reason standards exist, and has tarnished so many articles that it desperately needs a complete rewrite from scratch. But this is the policy governing units of bits and bytes&mdash;as such, it affects thousands of articles involving an enormous topic, an enormous industry, and an awful lot of people with an awful lot invested. Fixing even one article that uses the &ldquo;customary&rdquo; convention or editing just one paragraph of this policy in any way are both grounds for a major conflict akin to a second United States Civil War. Fixing <i>every single article</i> on Wikipedia that does this <i>and</i> rewriting the whole policy from scratch? Forget it. ${desc_x}</p><br />
 
     <p>**&nbsp;Explanations:</p>
 
